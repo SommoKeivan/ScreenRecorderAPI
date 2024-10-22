@@ -1,0 +1,13 @@
+"C:\Program Files\JetBrains\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" C:\Users\ameri\Documents\GitHub\ScreenRecorderAPI\ScreenRecorderAPI
+C:/Users/ameri/Documents/GitHub/ScreenRecorderAPI/ScreenRecorderAPI/libs/ffmpeg
+-- avformat library not found.
+-- avcodec library not found.
+-- avutil library not found.
+-- swscale library not found.
+-- swresample library not found.
+CMake Error at CMakeLists.txt:58 (MESSAGE):
+  Some FFmpeg libraries are missing.
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/ameri/Documents/GitHub/ScreenRecorderAPI/ScreenRecorderAPI/cmake-build-debug/CMakeFiles/CMakeOutput.log".
